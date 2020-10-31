@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8db2f099-55a7-4ea8-8128-1caa932089a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot_redis" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.6.0\Repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jHGKX837IckkeVgGjsyvXyAPfP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../qst/student_system" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yj" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yj.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootRedisApplication">
+    <configuration name="SpringbootRedisApplicationTests.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yj.springboot_redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yj.springboot_redis" />
+      <option name="MAIN_CLASS_NAME" value="com.yj.springboot_redis.SpringbootRedisApplicationTests" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisApplicationTests.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yj.springboot_redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yj.springboot_redis" />
+      <option name="MAIN_CLASS_NAME" value="com.yj.springboot_redis.SpringbootRedisApplicationTests" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yj.SpringbootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootRedisApplicationTests.find" />
+        <item itemvalue="JUnit.SpringbootRedisApplicationTests.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8db2f099-55a7-4ea8-8128-1caa932089a1" name="Default Changelist" comment="" />
+      <created>1603453539556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603453539556</updated>
+      <workItem from="1603453547254" duration="4640000" />
+      <workItem from="1603521571290" duration="10428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1603541865573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603541865573" />
+    <state x="268" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603543069828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1603543069828" />
+    <state x="490" y="253" width="555" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603453977411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="253" width="555" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603453977411" />
+    <state x="580" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603543070917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1603543070917" />
+    <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1603695415165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603695415165" />
+    <state width="1483" height="182" key="GridCell.Tab.0.bottom" timestamp="1603543470619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603543470619" />
+    <state width="1483" height="182" key="GridCell.Tab.0.center" timestamp="1603543470619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603543470619" />
+    <state width="1483" height="182" key="GridCell.Tab.0.left" timestamp="1603543470619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603543470619" />
+    <state width="1483" height="182" key="GridCell.Tab.0.right" timestamp="1603543470619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603543470619" />
+    <state width="1483" height="182" key="GridCell.Tab.1.bottom" timestamp="1603543450020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603543450020" />
+    <state width="1483" height="182" key="GridCell.Tab.1.center" timestamp="1603543450019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603543450019" />
+    <state width="1483" height="182" key="GridCell.Tab.1.left" timestamp="1603543450019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603543450019" />
+    <state width="1483" height="182" key="GridCell.Tab.1.right" timestamp="1603543450020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603543450020" />
+    <state x="514" y="78" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603454121140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="78" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1603454121140" />
+    <state x="0" y="94" key="new project wizard" timestamp="1603695425318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="94" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603695425318" />
+  </component>
+</project>
